@@ -1,0 +1,239 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+header, main, footer {
+
+}
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p {
+    line-height: 2rem;
+}
+
+/*Navbar*/
+nav ul a,
+nav .brand-logo {
+    color: #880e4f;
+    padding: 0 15px;
+}
+nav .brand-logo{
+    font-size: 2.5em;
+}
+nav ul a{
+    font-size: 1.4em;
+}
+.button-collapse {
+    color: #880e4f;
+}
+.lang {
+    color: #FFFFFF;
+    font-size: 1.2em;
+}
+
+.lang:hover {
+    color: #cd046f;
+}
+
+/*Intro*/
+.btn-flat {
+    padding: 0 30px;
+    margin-bottom: 10px;
+}
+#index-banner img{
+    height: 50px;
+}
+/*Follow button*/
+.btn-flat {
+    font-size: 1.5em;
+}
+
+
+/*Combi manicure*/
+#manicure {
+    font-size: 2em;
+}
+
+.section-manicure {
+    height: 100%;
+    width: 100%;
+    padding-top: 35px;
+}
+
+/*Parallax Containers*/
+.parallax img {
+    background-size: cover;
+}
+
+.parallax-container {
+    min-height: 380px;
+    line-height: 0;
+    height: auto;
+    color: rgba(255, 255, 255, .9);
+}
+
+.parallax-container .section {
+    width: 100%;
+}
+
+/*Screen width*/
+@media only screen and (max-width: 992px) {
+    .parallax-container .section {
+        position: absolute;
+        top: 40%;
+    }
+
+    #index-banner .section {
+        top: 10%;
+    }
+
+    .nav-wrapper {
+        padding: 0 5px;
+        font-size: 12px;
+    }
+
+    .side-nav li a{
+        font-size: 1.3em;
+    }
+    .side-nav .collapsible li{
+        margin: 0 15px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #index-banner .section {
+        top: 0;
+    }
+    .nav-wrapper {
+        padding: 0 5px;
+    }
+
+    .nav-wrapper .brand-logo{
+        font-size: 1.7em;
+    }
+    .side-nav li a{
+        font-size: 1.4em;
+    }
+    .side-nav .collapsible li{
+        margin: 0 18px;
+    }
+    .copy{
+        padding: 15px;
+    }
+}
+
+/*About me*/
+#about_me {
+    height: 100%;
+    width: 100%;
+    font-size: 1.5em;
+    padding-bottom: 10%;
+}
+
+#about_me h3 {
+    font-size: 2em;
+}
+
+/*Icons*/
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+/*Gallery*/
+#gallery {
+    height: 100%;
+    width: 100%;
+    padding: 10% 0 10% 0;
+    background-color: #FFFFFF;
+}
+
+.slider .slides li img {
+    background-size: contain;
+}
+.slider .indicators {
+    position: initial;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+}
+
+/*Contacts*/
+#contact.icons {
+    font-size: 2.7em;
+}
+
+#contact {
+    font-size: 2.3em;
+    padding: 10% 0 10% 0;
+}
+
+#contact.icons:hover {
+    color: #ee90c2;
+}
+
+/*Footer*/
+.social-icon {
+    font-size: 2.5em;
+    color: #FFFFFF;
+    padding: 0 20px 0 20px;
+}
+
+.social-icon:hover {
+    color: #cd046f;
+}
+
+.copy {
+    color: #FFFFFF;
+    font-size: 1.2em;
+}
+
+footer.page-footer {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+footer.page-footer .lang {
+    margin-right: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+/*Page Police*/
+.policy_page {
+    font-size: 1.8em;
+    color: #880e4f;
+}
+/*Share button*/
+.share-button{
+    left: 24px;
+    right: auto;
+    bottom:  100px;
+}
+/*Chat button*/
+.left-button{
+    left: 24px;
+    right: auto;
+}
+/*Price Page*/
+.price_page{
+    font-size: 1.7em;
+    color: #880e4f;
+}
+.price_page .title{
+    font-size: 2em;
+}
+.price_page .stars{
+    color: #b62774;
+}
