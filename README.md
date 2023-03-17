@@ -1,5 +1,5 @@
-This website was created for a girl from Cyprus, who ultimately didn't put the website online.
-I use google fonts, font awesome and Materialize framework.
+<p>This website was created for a girl from Cyprus, who ultimately didn't put the website online.</p>
+I use google fonts, font awesome and Materialize framework. I translete
 
 <h2><a href="https://bluebutterflies.github.io/DreamNailsByLidinikolova/Eng/index.html#">Nails by Lidi Nikolova</h2>
   
