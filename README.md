@@ -1,5 +1,5 @@
 <h2><p>This website was created for a girl from Cyprus, who ultimately didn't put the website online.</p>
-<p>The site has been written in Italian, Russian, Bulgarian, Greek and English</p>
+<p>The website has been written in Italian, Russian, Bulgarian, Greek and English</p>
 I use google fonts, font awesome and Materialize framework. I translete</h2>
 
 <h3><a href="https://bluebutterflies.github.io/DreamNailsByLidinikolova/Eng/index.html#">Nails by Lidi Nikolova</h3>
