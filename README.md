@@ -1,3 +1,5 @@
+This website was created for a girl from Cyprus, who ultimately didn't put the website online.
+
 <h2><a href="https://bluebutterflies.github.io/DreamNailsByLidinikolova/Eng/index.html#">Nails by Lidi Nikolova</h2>
   
   
